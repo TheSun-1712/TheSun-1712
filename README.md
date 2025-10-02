@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">From basics to full-stack, one commit at a time</h3>
+<h1 align="center">Helloo, I'm Aditya</h1>
+<h3 align="center">Budding and actively growing developer</h3>
 
 - 🔭 I’m currently working on **PixRefine**
 

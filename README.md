@@ -41,6 +41,21 @@ Focus areas:
 
 ---
 
+## 🔹 SentinelAI
+
+AI-driven system focused on intelligent automation and monitoring.
+
+Repository:
+https://github.com/TheSun-1712/SentinelAI/tree/main
+
+Focus areas:
+
+* AI-powered analysis
+* automated decision pipelines
+* scalable system design
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">

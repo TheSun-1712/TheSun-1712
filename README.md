@@ -5,11 +5,39 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **PixRefine** – Image Enhancement & Optimization Engine  
-- 🌱 Focused on **Applied Machine Learning & Scalable Web Systems**
-- 🧠 Interested in **AI Systems, Performance Optimization & Architecture**
-- 🤝 Open to collaborating on serious **ML / AI products**
-- 📫 Reach me: **aditya.mn.pillai@gmail.com**
+* 🌱 Focused on **Applied Machine Learning & Scalable Web Systems**
+* 🧠 Interested in **AI Systems, Performance Optimization & Architecture**
+* 🤝 Open to collaborating on serious **ML / AI products**
+* 📫 Reach me: **[aditya.mn.pillai@gmail.com](mailto:aditya.mn.pillai@gmail.com)**
+
+---
+
+# 🧠 Featured Projects
+
+## 🔹 PixRefine
+
+Image enhancement and optimization engine focused on building a **real-world image processing pipeline**.
+
+Focus areas:
+
+* Image preprocessing pipelines
+* ML based enhancement
+* Performance optimized processing
+
+---
+
+## 🔹 PixelRestore
+
+Machine learning based **image restoration system** designed to recover degraded images and improve visual quality.
+
+Repository:
+https://github.com/AAC-Open-Source-Pool/PixelRestore
+
+Focus areas:
+
+* Image restoration
+* ML-based reconstruction
+* Efficient image processing pipeline
 
 ---
 
@@ -75,10 +103,9 @@
 
 ---
 
-## 🧠 Current Focus
+## 🎯 Current Focus
 
-- Building real-world ML systems  
-- Writing production-grade code  
-- Improving algorithmic depth  
-- Shipping consistently  
-
+* Building real-world ML systems
+* Writing production-grade code
+* Improving algorithmic depth
+* Shipping consistently
